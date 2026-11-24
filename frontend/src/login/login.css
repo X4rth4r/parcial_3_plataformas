@@ -1,0 +1,26 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 60vh;
+}
+
+.login-card {
+    width: 360px;
+    padding: 16px;
+}
+
+.full-width {
+    width: 100%;
+}
+
+mat-card-actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.registro-link {
+    text-decoration: none;
+    font-size: 14px;
+}
